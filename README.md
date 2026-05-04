@@ -1,5 +1,4 @@
 # IoT-Retro-Jukebox
-This IoT jukebox features a Particle Photon, speaker, and 3 buttons wired on a breadboard. We programmed the hardware to play music by converting sheet music into exact piano note frequencies and durations. Our web interface lets users cycle through a song library, randomize the tracks assigned to the 3 web buttons, and remotely trigger playback!
 
 
 
@@ -7,7 +6,9 @@ This IoT jukebox features a Particle Photon, speaker, and 3 buttons wired on a b
 
 ## Project Overview
 
-The IoT Jukebox is a cloud-connected audio playback system built on the Particle platform. This project implements a hardware-software hybrid interface, allowing users to trigger algorithmically synthesized audio through both a physical breadboard circuit and a remote web dashboard. By converting traditional sheet music into precise frequency and duration arrays, the microcontroller generates high-fidelity tones via a speaker. 
+The IoT Retro Jukebox is a cloud-connected audio playback system built on the Particle platform. This project implements a hardware-software hybrid interface, allowing users to trigger algorithmically synthesized audio through both a physical breadboard circuit and a remote web dashboard. By converting traditional sheet music into precise frequency and duration arrays, the microcontroller generates high-fidelity tones via a speaker. 
+
+Working with our team the IoT device features a Particle Photon, speaker, and 3 buttons wired on a breadboard. We programmed the hardware to play music by converting sheet music into exact piano note frequencies and durations. Our web interface lets users cycle through a song library, randomize the tracks assigned to the 3 web buttons, and remotely trigger playback!
 
 ## Project Team
 * **Danyal Falsafi** * **Riley Disch**
