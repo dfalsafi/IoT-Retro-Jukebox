@@ -3,6 +3,8 @@ This IoT jukebox features a Particle Photon, speaker, and 3 buttons wired on a b
 
 
 
+
+
 ## Project Overview
 
 The IoT Jukebox is a cloud-connected audio playback system built on the Particle platform. This project implements a hardware-software hybrid interface, allowing users to trigger algorithmically synthesized audio through both a physical breadboard circuit and a remote web dashboard. By converting traditional sheet music into precise frequency and duration arrays, the microcontroller generates high-fidelity tones via a speaker. 
